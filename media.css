@@ -23,4 +23,20 @@
    border-left: 3px solid gray;
    gap: 30px;
    }
+   .mmm{
+    display: none;
+   }
+   .m1{
+    margin: 80px 0px;
+
+    text-align: center;
+    width: 100%;
+   }
+   .tt1{
+    font-size: 28px;
+   }
+   .mbt{
+    padding: 15px 25px;
+   }
 }
+

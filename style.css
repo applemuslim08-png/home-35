@@ -23,6 +23,7 @@
     background-color: white;
     border: 1px solid gray;
     padding: 9px 15px;
+    border-radius: 7px;
 }
 .blogo:hover{
     background-color: #446DF6;
@@ -31,4 +32,36 @@
 }
 .b{
     display: none;
+}
+.mmm{
+    width: 50%;
+}
+.mmm img {
+    width: 700px;
+}
+.m1{
+    margin: 90px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tt1{
+    font-size: 35px;
+    margin-bottom: 20px;
+    
+}
+.tt2{
+    color: #72727E;
+}
+.mbt{
+        padding: 11px 19px;
+        color: white;
+        background-color: #446DF6;
+        border-radius: 7px;
+        border: none;
+}
+.mbt:hover{
+    color: #446DF6;
+    background-color: white;
+    border: 1px solid black;
 }
