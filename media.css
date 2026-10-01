@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+   .sect{
+    display: none;
+   }
+   .blogo{
+    display: none;
+   }
+   .sec1{
+    margin: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    z-index: 10;
+
+   }
+   .b{
+    width: 30px;
+    display: block;
+    margin-left: 140px;
+   border-left: 3px solid gray;
+   gap: 30px;
+   }
+}
